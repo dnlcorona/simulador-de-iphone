@@ -1,0 +1,1 @@
+Um simulador de IPHONE com algumas funcionalidades extras.
