@@ -1,1 +1,1 @@
-Um simulador de IPHONE com algumas funcionalidades extras.
+Projeto inicial de um simulador de IPHONE para web.
